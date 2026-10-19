@@ -28,7 +28,7 @@ try:
 
     # Log in
     pyautogui.click(x=895, y=531)
-    pyautogui.write("pythonimpressionador@gmail.com")
+    pyautogui.write(123@123.com")
     pyautogui.press("tab")
     pyautogui.write("sua senha")
     pyautogui.press("tab")
