@@ -9,6 +9,7 @@ The automation emulates human mouse and keyboard actions to navigate a web brows
 * **`automacao.py`** (or your file name): The core Python automation script utilizing PyAutoGUI.
 * **`produtos.csv`**: The local database containing code, brand, type, category, price, cost, and notes for all inventory products.
 * **`ferramentas.txt`**: The requirements file listing the dependencies required to run the environment.
+* **`pegar_posicao.py`**: A helper script used to track real-time mouse coordinates (X and Y) to map the form fields.
 
 ## 🛠️ Technologies & Libraries Used
 * **Python 3**
